@@ -1,6 +1,6 @@
 # Group-33-Second-Capstone-Project
-#Faozziyyah Daud (Mentor)
-#Group Members
+# Faozziyyah Daud (Mentor)
+# Group Members
 Bage Abraham Foto (Team Lead)
 
 Lawal Fawaz Olaitan (Assistant Team Lead) SH-IT-0031797
